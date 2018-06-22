@@ -9,7 +9,7 @@ def talk
 end 
 
 def walk 
-puts "The Person is walking"
+puts "the person is walking."
 end 
 
 end 
